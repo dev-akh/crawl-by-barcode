@@ -1,4 +1,4 @@
-# Coding assessment - Backend
+# Backend
 ## Description
 - Find the Product's name and Product's description
 - If can't find both name and description, search from next website
